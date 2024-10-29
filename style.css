@@ -1,0 +1,45 @@
+/* Allgemeine Einstellungen */
+body {
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background-color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #990000;
+    text-align: center;
+    padding: 50px 0;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+/* Sektionen */
+section {
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #990000;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #ff4d4d;
+}
+
+/* Links */
+a {
+    color: #ff4d4d;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
